@@ -1,3 +1,9 @@
+First thing to do 
+npm i
+
+The project home page is http://localhost:3000/home
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
